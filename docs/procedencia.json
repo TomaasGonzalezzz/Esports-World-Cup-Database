@@ -1,0 +1,535 @@
+{
+  "descripcion": "Entrega académica original preservada sin modificaciones. Se excluye metadata de macOS. README y documentos de procedencia agregados al publicarla.",
+  "fuentes": [
+    {
+      "archivo": "Trabajo Práctico Grupal - Enunciado (1).pdf",
+      "sha256": "ed4f8c9ce383b60585bf9e26b0e13750e896901050a549900ac3271174031888"
+    },
+    {
+      "archivo": "TP1_EWC.zip",
+      "sha256": "bc9e6a155971884ede4cf9c4908e7139d8cb744d67a6b55d8568623233ad9bfc"
+    }
+  ],
+  "archivos_originales": [
+    {
+      "archivo_zip": "TP1_EWC/02_usuarios_permisos.sql",
+      "archivo_repositorio": "02_usuarios_permisos.sql",
+      "sha256": "52365ca38fd3a7619e7126c2f257502dece5ea1cb8dc3a204f73bd8203623010"
+    },
+    {
+      "archivo_zip": "TP1_EWC/04_consultas.sql",
+      "archivo_repositorio": "04_consultas.sql",
+      "sha256": "a411abc3ff95adbc148f4441f8736d4019db8f8b9229e492fd498fe2f408bc40"
+    },
+    {
+      "archivo_zip": "TP1_EWC/informe.pdf",
+      "archivo_repositorio": "informe.pdf",
+      "sha256": "24679674a71d5b3fa28f459bb8ba907b821b0b2103e336afcd67dbbf9cdcb231"
+    },
+    {
+      "archivo_zip": "TP1_EWC/03_carga_datos.sql",
+      "archivo_repositorio": "03_carga_datos.sql",
+      "sha256": "cc73ab55901f7bf85207724e61bff7be5348f7d89043b8b698bd85e8642294c9"
+    },
+    {
+      "archivo_zip": "TP1_EWC/COMO_EJECUTAR.md",
+      "archivo_repositorio": "COMO_EJECUTAR.md",
+      "sha256": "ffa86fc1293dc5ca502d89fe00cac09e3898e0f988dd51bfe22f3e701ee04a06"
+    },
+    {
+      "archivo_zip": "TP1_EWC/01_crear_tablas.sql",
+      "archivo_repositorio": "01_crear_tablas.sql",
+      "sha256": "f7479b86cb2baf185d3bc754f200f70979e05df2a4fc818b93fd0bf318c66703"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/generar_datos.py",
+      "archivo_repositorio": "datos/generar_datos.py",
+      "sha256": "25c38f018353fdefceb1359da0a0184c410c74c326b8aaac480ac4078a947640"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/manual/sponsors_equipo.csv",
+      "archivo_repositorio": "datos/manual/sponsors_equipo.csv",
+      "sha256": "458178b36bb03ac496b53fefd0d8bceff52402251995f2f7082711a92a314021"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/manual/alias_esports.csv",
+      "archivo_repositorio": "datos/manual/alias_esports.csv",
+      "sha256": "c89f4aad4efff1425705c2c1d35ca470663bf84bdb752e0e388f672e1b10dd90"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/manual/alias_orgs.csv",
+      "archivo_repositorio": "datos/manual/alias_orgs.csv",
+      "sha256": "5a06f5cd04417797f4b327371303c82ef74b138a2b341343e271463d1a3b8804"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/manual/patrocinios_edicion.csv",
+      "archivo_repositorio": "datos/manual/patrocinios_edicion.csv",
+      "sha256": "a03187b0ccfb366660a4ad3ff914c42c1472cd8cf690633c8d6f388521cb300f"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/manual/paises_orgs.csv",
+      "archivo_repositorio": "datos/manual/paises_orgs.csv",
+      "sha256": "6a997f30bdbfeef22652dbac1b2a3b59a0095d1d11ab50f95979fa93e5d14d49"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/manual/patrocinios_equipo.csv",
+      "archivo_repositorio": "datos/manual/patrocinios_equipo.csv",
+      "sha256": "1304bb5c771ca1040f99fb0e00ea192801d13d1117a1f1a915a33de5f349af39"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/manual/sponsors.csv",
+      "archivo_repositorio": "datos/manual/sponsors.csv",
+      "sha256": "e8570f48bdac474bea18a99ea4916b153b99638bafbf9e9f81db0541cede5509"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/manual/excepciones.csv",
+      "archivo_repositorio": "datos/manual/excepciones.csv",
+      "sha256": "72dd16c7d1a12b72be97bba30739ae1b80fb1b8acbd7042f81cdc6117fe5f39e"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/manual/sponsors_edicion.csv",
+      "archivo_repositorio": "datos/manual/sponsors_edicion.csv",
+      "sha256": "cf0cb20b9df5738a96744858d9053165fb27f67538597494f4a7547473d4e7cb"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/manual/esports.csv",
+      "archivo_repositorio": "datos/manual/esports.csv",
+      "sha256": "7136d5ec3580fb9688249071cf7912b7b8bcb38c325318ccf762d060300fb275"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/sponsors_equipo.csv",
+      "archivo_repositorio": "datos/csv/sponsors_equipo.csv",
+      "sha256": "eb0f5075a91b4705518e3428189d116ff7ef18620afda0d96cd199c541e4485f"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/torneos.csv",
+      "archivo_repositorio": "datos/csv/torneos.csv",
+      "sha256": "f1780829581ab0b46e123d5ce5bdd13dce5996f27bf6fdc75bf1f2dfb66dd169"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/equipos.csv",
+      "archivo_repositorio": "datos/csv/equipos.csv",
+      "sha256": "89bf1a9a182b98c8738207e3655611cea37851ef338154542a611fb20a81856e"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/patrocinios_edicion.csv",
+      "archivo_repositorio": "datos/csv/patrocinios_edicion.csv",
+      "sha256": "8cc3c85c92163dcf0bacfade213168fce7bdda0ca953a12de47498169e27cfdb"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/patrocinios_equipo.csv",
+      "archivo_repositorio": "datos/csv/patrocinios_equipo.csv",
+      "sha256": "d1ae2a49dcff9f2abe150ffb1fd6ae6256a5ee95b7221df3741fda6f7a48d074"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/participaciones.csv",
+      "archivo_repositorio": "datos/csv/participaciones.csv",
+      "sha256": "8ea8c20f7e30345598072e4a0cf384f2ee6a319280f48dd3d5a94823683c17d5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/sponsors.csv",
+      "archivo_repositorio": "datos/csv/sponsors.csv",
+      "sha256": "2ec5d2732eaddd8a9df7e273ea3730d5267aba86d66b8761b5903b606a524546"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/ediciones.csv",
+      "archivo_repositorio": "datos/csv/ediciones.csv",
+      "sha256": "81c3b99a4939dee969b2e4b2a2c955cae9d98a37c72263e8063bbc0b6afe0b5a"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/organizaciones.csv",
+      "archivo_repositorio": "datos/csv/organizaciones.csv",
+      "sha256": "c42f78aaa64d6303b86df78e5bc4254c603b9864b552aec3704ea0fb86dbdf32"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/tabla_puntos.csv",
+      "archivo_repositorio": "datos/csv/tabla_puntos.csv",
+      "sha256": "fe5b2c0cb5109d7002218fb361b1d58d88a26ad92ea7edc629358aff311bd7fa"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/sponsors_edicion.csv",
+      "archivo_repositorio": "datos/csv/sponsors_edicion.csv",
+      "sha256": "996ae55d13bfa6431989686bddd67a606f9840ce9cbd10baa7e6d10893ef22e5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/csv/esports.csv",
+      "archivo_repositorio": "datos/csv/esports.csv",
+      "sha256": "2ba14f1d48bbbb39011e6f1223087343d754fce554d4e02d9b3e22fe7f82aea7"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_honorofkings.json",
+      "archivo_repositorio": "datos/raw/equipos2_honorofkings.json",
+      "sha256": "12070010b1674d7983c169be813a24a005807e6f486d852ddf3f35e64bdd04b5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_leagueoflegends.json",
+      "archivo_repositorio": "datos/raw/equipos_leagueoflegends.json",
+      "sha256": "9bbdbfdc34ba62a24b0c45bd6831a988bf2e4a3c02711a90b9eaccb1ac87ade1"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_fortnite.json",
+      "archivo_repositorio": "datos/raw/equipos2_fortnite.json",
+      "sha256": "12070010b1674d7983c169be813a24a005807e6f486d852ddf3f35e64bdd04b5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_rocketleague.json",
+      "archivo_repositorio": "datos/raw/equipos2_rocketleague.json",
+      "sha256": "12070010b1674d7983c169be813a24a005807e6f486d852ddf3f35e64bdd04b5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_overwatch.json",
+      "archivo_repositorio": "datos/raw/torneos_overwatch.json",
+      "sha256": "e780d69812374e673362fe9b0026f333db2fb049cf0eea5e70f3c6bf8c9b33df"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_trackmania.json",
+      "archivo_repositorio": "datos/raw/torneos_trackmania.json",
+      "sha256": "cff5ccb12810dbc6d684482b8f057407170f9aa911235aefe4916b00f64b2a23"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_leagueoflegends.json",
+      "archivo_repositorio": "datos/raw/torneos_leagueoflegends.json",
+      "sha256": "1441d4c077ffa14ebd39a436ebb80baecd6030fe0aa0ec150d5f98e194da609a"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_rainbowsix.json",
+      "archivo_repositorio": "datos/raw/equipos2_rainbowsix.json",
+      "sha256": "1b64322517323cd2adc1f2b704f63fed441593344c84bef96bc3f46beb6efb2f"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_pubgmobile.json",
+      "archivo_repositorio": "datos/raw/torneos_pubgmobile.json",
+      "sha256": "dc9ce7c09602cdea4af79d2098d5df021168272758332e74b573aed232001119"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_overwatch.json",
+      "archivo_repositorio": "datos/raw/equipos2_overwatch.json",
+      "sha256": "6d92a19150d4500691fe855ef2af89497931f35d4c81df1fea530ee920e97879"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_tft.json",
+      "archivo_repositorio": "datos/raw/equipos2_tft.json",
+      "sha256": "13d3697e4c003342cf836731e720226ef4f311b118ef199d36e761b1de0059e5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_mobilelegends.json",
+      "archivo_repositorio": "datos/raw/torneos_mobilelegends.json",
+      "sha256": "d5f2350b7265fdef12c55e9803909f5f263e8abd281db64a4b19352333bb25c2"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_apexlegends.json",
+      "archivo_repositorio": "datos/raw/equipos2_apexlegends.json",
+      "sha256": "f52166e4fb7143e1c32721a944d514fc687547febe2198d9781b486fc4eddfc8"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_callofduty.json",
+      "archivo_repositorio": "datos/raw/equipos2_callofduty.json",
+      "sha256": "7e23b5ca1fb2a1d6d35c43ac9c06723ec2c165a753724623f674aa879f1795f6"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_chess.json",
+      "archivo_repositorio": "datos/raw/equipos_chess.json",
+      "sha256": "f79afbed7ac168c5a31dcce238ea1d73543780956668cdf0f7a20c147eaaa2e1"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_freefire.json",
+      "archivo_repositorio": "datos/raw/torneos_freefire.json",
+      "sha256": "b6072ecf9574f730f507efb07f293c89b583326ae3f6e84166358b7cca561fce"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_trackmania.json",
+      "archivo_repositorio": "datos/raw/equipos_trackmania.json",
+      "sha256": "1627d2e7ce7065f8e20d5daca6de4ba69604e1d91ff3db87b41de70b2408c201"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_pubgmobile.json",
+      "archivo_repositorio": "datos/raw/equipos_pubgmobile.json",
+      "sha256": "49d5fe21444179cdd58a7813deca1d9325197d1872f502644ba5cb525ba3f762"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_freefire.json",
+      "archivo_repositorio": "datos/raw/equipos_freefire.json",
+      "sha256": "4183f6a6f5738fbf4b0688bd1d664b5c02626160fae71dccbd5cef10a8042c81"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_rocketleague.json",
+      "archivo_repositorio": "datos/raw/equipos_rocketleague.json",
+      "sha256": "741cec185e1955fc77a4664e60aac057cd6e657a1dcfd2c7d339ef374847d8e4"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_honorofkings.json",
+      "archivo_repositorio": "datos/raw/equipos_honorofkings.json",
+      "sha256": "c56a2bc83f62650dc7b5bdbca0a16a1afff50b994e781673e526f57b51295c20"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_fighters.json",
+      "archivo_repositorio": "datos/raw/equipos2_fighters.json",
+      "sha256": "66a52d37bb4a36948fc134cdb3f290046530b2a12193653f894bafb6b4ba5d01"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_starcraft2.json",
+      "archivo_repositorio": "datos/raw/torneos_starcraft2.json",
+      "sha256": "0986de873b857624d4d7e60fd3779af26ae1f999b3780c73bc899193c31d4b2c"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_easportsfc.json",
+      "archivo_repositorio": "datos/raw/equipos2_easportsfc.json",
+      "sha256": "9d2e12ab93da89922a2af037632cd9cce788e0d71fafaaef478b3e27075efac6"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_arenaofvalor.json",
+      "archivo_repositorio": "datos/raw/equipos_arenaofvalor.json",
+      "sha256": "2adfa757af5efa8f3cdcaff4d41930a6b384e78b2aaba2c2d2b209463e2100bd"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_counterstrike.json",
+      "archivo_repositorio": "datos/raw/equipos_counterstrike.json",
+      "sha256": "ce32d956c484b366e82fe85d6ee96716772bf88191e5c66c38572ad80c8587c8"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_dota2.json",
+      "archivo_repositorio": "datos/raw/equipos_dota2.json",
+      "sha256": "c44a99477cea25c8d88268574217cad70ac4d3de33d4b87614989bedbd8c2e19"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_starcraft2.json",
+      "archivo_repositorio": "datos/raw/equipos_starcraft2.json",
+      "sha256": "c4236cc762f07cf9c88b11463eef7d376e84a22ba84b08e134fa2439a5b6b77c"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_mobilelegends.json",
+      "archivo_repositorio": "datos/raw/equipos2_mobilelegends.json",
+      "sha256": "aec5bf8abc47c64e0510a7ab4821d08236a634b0b10138e53ca59bd5266e171a"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_valorant.json",
+      "archivo_repositorio": "datos/raw/equipos_valorant.json",
+      "sha256": "58dd1922c43b223abeee7d4158d840b788ea48bb54f3fa2fe2dad10e3482aeb0"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_arenaofvalor.json",
+      "archivo_repositorio": "datos/raw/equipos2_arenaofvalor.json",
+      "sha256": "12070010b1674d7983c169be813a24a005807e6f486d852ddf3f35e64bdd04b5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_simracing.json",
+      "archivo_repositorio": "datos/raw/equipos_simracing.json",
+      "sha256": "86a4ff490dd6982b5c308dc4f9a687be60a1fb205c07cc9b2f1ac40cdef0cd70"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_crossfire.json",
+      "archivo_repositorio": "datos/raw/equipos_crossfire.json",
+      "sha256": "74cf46d474bcd6b1f64d5a004d470b99e669dcffe17f6028e041608abdf3277f"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_valorant.json",
+      "archivo_repositorio": "datos/raw/torneos_valorant.json",
+      "sha256": "674a9220ac4a73d4b5d2bfcd0d1a985ad9abd435cd0ee73b8090239ac87e3d2d"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_callofduty.json",
+      "archivo_repositorio": "datos/raw/equipos_callofduty.json",
+      "sha256": "9760edb4236292a4d9a197d2b8807423fdaec5ae63be64cfc1f398b2d8112d51"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_fighters.json",
+      "archivo_repositorio": "datos/raw/torneos_fighters.json",
+      "sha256": "9047cf34fdadebeea087bb505475eaa07a5a633c24348dd8374026e924cb7f4b"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_trackmania.json",
+      "archivo_repositorio": "datos/raw/equipos2_trackmania.json",
+      "sha256": "949f148c5af984586787af89cab1b5028bcbb9cb7a342a02302f96e48b27be71"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_counterstrike.json",
+      "archivo_repositorio": "datos/raw/torneos_counterstrike.json",
+      "sha256": "5665d6319d694e3cd34c6e4361c9d6458efbf3433b1661e85a58905682f773c8"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_arenaofvalor.json",
+      "archivo_repositorio": "datos/raw/torneos_arenaofvalor.json",
+      "sha256": "55572e5b74c54da94297ded6029a460fbe80a94df8b26f75da32187e4c7f02c2"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_pubgmobile.json",
+      "archivo_repositorio": "datos/raw/equipos2_pubgmobile.json",
+      "sha256": "dd8083c840aabebc93502a4f041716479b66b7b7e725babcd06d1ec1e93425ee"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_rainbowsix.json",
+      "archivo_repositorio": "datos/raw/torneos_rainbowsix.json",
+      "sha256": "1db29a62c25a205eac5b35ccea8543e87505f24999f4197bf2f47f8f33893879"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_chess.json",
+      "archivo_repositorio": "datos/raw/torneos_chess.json",
+      "sha256": "5ff26532cf9ba2e0752a221ac1f5109f73e820a766a73f9b1f1f684a4d7861e1"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_fighters.json",
+      "archivo_repositorio": "datos/raw/equipos_fighters.json",
+      "sha256": "f5b839d4f408d088deb124b7c9051c5ce477442e47d1683fcdaacc1357e2f8c2"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_dota2.json",
+      "archivo_repositorio": "datos/raw/equipos2_dota2.json",
+      "sha256": "712aea4a6553eafc9f57c408727f4ae2bdeacb471667015c449df1b93540ab19"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_freefire.json",
+      "archivo_repositorio": "datos/raw/equipos2_freefire.json",
+      "sha256": "4c5610f8d41e56072567e4121a1d29696b9f018d1bc919eebb17062d8b535a59"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_crossfire.json",
+      "archivo_repositorio": "datos/raw/equipos2_crossfire.json",
+      "sha256": "b8e1982fe61d40bac7ad7fdd228f27fae6883b3b21636cdcb3147e1ee1a1b8bf"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_callofduty.json",
+      "archivo_repositorio": "datos/raw/torneos_callofduty.json",
+      "sha256": "6ecf9451e71bc51a87fc41a4ad9acdac0f093809a7610423bcfd325ef891bcf6"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_simracing.json",
+      "archivo_repositorio": "datos/raw/equipos2_simracing.json",
+      "sha256": "12070010b1674d7983c169be813a24a005807e6f486d852ddf3f35e64bdd04b5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_apexlegends.json",
+      "archivo_repositorio": "datos/raw/equipos_apexlegends.json",
+      "sha256": "d30b41d682754a245bb7c4cf9accae244c461843be16c563ccb0f30e603e5002"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_fortnite.json",
+      "archivo_repositorio": "datos/raw/equipos_fortnite.json",
+      "sha256": "4ce32a59c26f0ba4a49d39f011574567f8a50910b1a39169cee90a8e02d6babb"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_fortnite.json",
+      "archivo_repositorio": "datos/raw/torneos_fortnite.json",
+      "sha256": "9e8adad34ed1ac8d371e4aabf5b073fcd141ef998ee579045802590e0f99d93c"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/organizaciones.json",
+      "archivo_repositorio": "datos/raw/organizaciones.json",
+      "sha256": "0329dab6e325199a3061a9e0dbfc451174a59560d550b3fbaf1faea830eb68ef"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_pubg.json",
+      "archivo_repositorio": "datos/raw/equipos_pubg.json",
+      "sha256": "095c38427b74f0ef8b48c995c06037980556dafdadb2e7048d6b4edc776f18d2"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/standings.json",
+      "archivo_repositorio": "datos/raw/standings.json",
+      "sha256": "9aaedebeb0042d1d1c6d14b8567af54c07a0f6309bed3c143ae3f0403b88669c"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_simracing.json",
+      "archivo_repositorio": "datos/raw/torneos_simracing.json",
+      "sha256": "5960c52a5f832d97995b0fd340de4214c6efe1e61e2aacfa5d1ee608dfed5ef0"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_rainbowsix.json",
+      "archivo_repositorio": "datos/raw/equipos_rainbowsix.json",
+      "sha256": "63f43a0a11ac70748deb61110446b204d8b874544a067c1eaf421a5b48d94c21"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/ediciones.json",
+      "archivo_repositorio": "datos/raw/ediciones.json",
+      "sha256": "8adf002b1e558dbf5b6e8175f61302727f0e59e998d39adf893ad0e1757704f2"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_crossfire.json",
+      "archivo_repositorio": "datos/raw/torneos_crossfire.json",
+      "sha256": "b1777d3afa280d8cfbf7476c820083bcca51698ebd606063ff87ff2cdfe872a2"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_mobilelegends.json",
+      "archivo_repositorio": "datos/raw/equipos_mobilelegends.json",
+      "sha256": "15c9bfae7612d2f4d3c756c5dd08ca194c5c8a8b35a30d7f334d0865b89f1a73"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_leagueoflegends.json",
+      "archivo_repositorio": "datos/raw/equipos2_leagueoflegends.json",
+      "sha256": "12070010b1674d7983c169be813a24a005807e6f486d852ddf3f35e64bdd04b5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_starcraft2.json",
+      "archivo_repositorio": "datos/raw/equipos2_starcraft2.json",
+      "sha256": "12070010b1674d7983c169be813a24a005807e6f486d852ddf3f35e64bdd04b5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_valorant.json",
+      "archivo_repositorio": "datos/raw/equipos2_valorant.json",
+      "sha256": "12070010b1674d7983c169be813a24a005807e6f486d852ddf3f35e64bdd04b5"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_pubg.json",
+      "archivo_repositorio": "datos/raw/equipos2_pubg.json",
+      "sha256": "5a709e5dad3fc6312ce7de1b7e313b338121352454b60ed5bc7d57ab3d44ed3f"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_overwatch.json",
+      "archivo_repositorio": "datos/raw/equipos_overwatch.json",
+      "sha256": "a368c824e75660c37f3237137759df2e7c17d9590622e1265e87b30bba45ab90"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_easportsfc.json",
+      "archivo_repositorio": "datos/raw/torneos_easportsfc.json",
+      "sha256": "b5ef950955d883377b0c6fa27a30c6ed7a0b7e13bb61d628c7915de0b8cefd9e"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_tft.json",
+      "archivo_repositorio": "datos/raw/equipos_tft.json",
+      "sha256": "638c4d41364937a3fcdaf2285715b0ac080a03e498bc2509463b205094c56847"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_chess.json",
+      "archivo_repositorio": "datos/raw/equipos2_chess.json",
+      "sha256": "840ab13fcf769e0370db65757acab811be107a5647b3f58ba613363a210cb87c"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos_easportsfc.json",
+      "archivo_repositorio": "datos/raw/equipos_easportsfc.json",
+      "sha256": "f3c075695bfe0ce587e0baf780ea44e3527347d1636d31897323a8940d4ae1e4"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_dota2.json",
+      "archivo_repositorio": "datos/raw/torneos_dota2.json",
+      "sha256": "2c96e84aca9f639475bfe2db415db27ff8837a6b7366757d66bd09413962ae64"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_rocketleague.json",
+      "archivo_repositorio": "datos/raw/torneos_rocketleague.json",
+      "sha256": "4c34990e480cd14cfcfac82b565087de0f8aec36c56184c20e454c18ccdb0067"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_tft.json",
+      "archivo_repositorio": "datos/raw/torneos_tft.json",
+      "sha256": "55dde82b716b31aa9e1714313e4b4c208097a8abb75753da97c0ccbe3ba34d56"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/equipos2_counterstrike.json",
+      "archivo_repositorio": "datos/raw/equipos2_counterstrike.json",
+      "sha256": "a3a3d7c42e353a0e8e8e60e650b0d6cf3a31faaae65c836ba0ed9fc3e17f89a6"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_pubg.json",
+      "archivo_repositorio": "datos/raw/torneos_pubg.json",
+      "sha256": "662a9f6ab1a5d0a03660187604787af733955ed4ceacac3f3ee8ff2a9091fc50"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_honorofkings.json",
+      "archivo_repositorio": "datos/raw/torneos_honorofkings.json",
+      "sha256": "a5d328a08565c3d5b2494a410a5cf8ff96b04d0c308c239448791d26d296f0b9"
+    },
+    {
+      "archivo_zip": "TP1_EWC/datos/raw/torneos_apexlegends.json",
+      "archivo_repositorio": "datos/raw/torneos_apexlegends.json",
+      "sha256": "c6f8912e3287b286b67b925f448acc76003623b37bd67a1db52b9a4d5752da43"
+    }
+  ]
+}

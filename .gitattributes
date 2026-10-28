@@ -1,0 +1,6 @@
+*.sql -text
+COMO_EJECUTAR.md -text
+datos/** -text
+*.pdf binary
+README.md text eol=lf
+docs/procedencia.json text eol=lf

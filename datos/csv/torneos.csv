@@ -1,0 +1,10 @@
+anio_edicion,nombre_esport,fecha_inicio,fecha_fin,pozo,formato,cantidad_equipos
+2024,Counter-Strike 2,2024-07-17,2024-07-21,1000000,Opening Stage + Resurrection Stage + Playoffs,15
+2024,League of Legends,2024-07-04,2024-07-07,1000000,,8
+2024,Rocket League,2024-08-22,2024-08-25,500000,Group Stage + Playoffs,16
+2025,Counter-Strike 2,2025-08-20,2025-08-24,1250000,Playoffs,16
+2025,League of Legends,2025-07-16,2025-07-20,2000000,Group Stage + Playoffs,12
+2025,Rocket League,2025-08-14,2025-08-17,1000000,Group Stage + Playoffs,16
+2026,Counter-Strike 2,2026-08-12,2026-08-23,2000000,Group Stage + Playoffs,32
+2026,League of Legends,2026-07-15,2026-07-19,2000000,Group Stage + Playoffs + Group Stage Seeding Rules + Playoffs Seeding Rules,16
+2026,Rocket League,2026-08-12,2026-08-16,1000000,Group Stage + Playoffs,16
