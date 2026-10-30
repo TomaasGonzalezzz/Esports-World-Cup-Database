@@ -7,12 +7,15 @@ Una base de datos para seguir la Esports World Cup: ediciones, torneos, equipos,
 
 [Informe con el modelo y las decisiones de diseño](informe.pdf) · [Guía de ejecución](COMO_EJECUTAR.md)
 
+**Resultado:** una base con 12 tablas, 4 perfiles de usuario y datos reales de tres ediciones, lista para consultar.
+
 ![Modelo entidad-interrelación](docs/modelo-entidad-relacion.png)
 
 ## Decisiones de diseño
 
 - **Torneo y Equipo son entidades débiles.** "El torneo de League of Legends" no identifica nada hasta que se dice de qué edición; "el equipo de G2", hasta que se dice de qué juego. Cada uno depende de dos entidades.
 - **Sponsor se especializa** en sponsor de edición y sponsor de equipo. Es una especialización total y superpuesta: un mismo sponsor puede patrocinar una edición y equipos a la vez, con montos distintos en cada caso.
+- **El diagrama de Sponsor se rehízo.** Al principio era una sola entidad con los montos repetidos en dos relaciones; la especialización resolvió esa duplicación.
 - **El puntaje total de una organización no se guarda**: se calcula a partir de sus participaciones, para que nunca contradiga los datos que lo originan.
 
 ## Qué contiene
@@ -41,6 +44,10 @@ JOIN tabla_puntos tp
 GROUP BY o.nombre_org, o.pais
 ORDER BY puntos_totales DESC;
 ~~~
+
+## Conclusión
+
+Lo más valioso fue resolver las reglas en el propio modelo en lugar de confiar en quien carga los datos. Que un equipo solo participe en torneos de su esport, por ejemplo, queda garantizado por la estructura de las tablas. Y varios supuestos que parecían obvios hubo que comprobarlos contra los datos reales de la competencia.
 
 ## Crear y consultar la base
 
